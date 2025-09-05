@@ -3,7 +3,7 @@
   --secondary-color: #cfcfcf;
   --font-color: black;
   --font-color-hover: #616161;
-  --bg-color: white;
+  --bg-color: rgb(72, 50, 196);
   --glow: rgba(0,0,0,0.25);
   --glow-active: rgba(0,0,0,0.5);
 }
