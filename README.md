@@ -2,6 +2,8 @@
 The Electronic Billboard Management System is a web application built with Next.js that will bring the simplicity of digital ad management to the physical world. From this web application, Digital Signage Owners can register their billboards and set a per-minute rate for advertising on said billboard. Advertisers can select a billboard that fits their budget, pick a time slot, and then purchase ad space through a payment gateway system integration. Once ad space is purchased, Advertisers will be able to upload an image to be displayed on the billboard during their scheduled time slot.
 Adding an screenshot or a mockup of your application in action would be nice.  
 
+Group 1: Changed the background color to a blue color and changed the favicon icon to a different image (the little image in the browser tab).
+
 ![This is a screenshot.](images.png)
 # How to build and run
 Provide here instructions on how to use your application.   
